@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #3494e6;
+    --secondary-color: #ec6ead;
+    --background-color: #f8f8f8;
+    --button-background-color: #4caf50;
+    --button-hover-color: #45a049;
+    --nav-background-color: #333;
+    --nav-text-color: white;
+    --card-background-color: #f0f0f0;
+    --card-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    --card-transition: transform 0.3s ease-in-out;
+    --forecast-card-background-color: palevioletred;
+    --selected-card-background-color: palevioletred;
+    --selected-card-box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    --glow-animation: glow 1s ease-in-out infinite alternate;
+}
